@@ -1,4 +1,5 @@
-# 💫 About Me:<br>🔭 I’m currently working on : An Arduino project based on IOT.<br>👯 I’m looking to collaborate on : Open source Java or Arduino project.<br>🌱 I’m currently learning : DSA with Java and OOP concepts.<br>⚡ Fun fact : I can solve a Rubik's cube in under 60 seconds (well, on a good day!)
+# 💫 About Me:
+🔭 I’m currently working on : An Arduino project based on IOT.<br>👯 I’m looking to collaborate on : Open source Java or Arduino project.<br>🌱 I’m currently learning : DSA with Java and OOP concepts.<br>⚡ Fun fact : I can solve a Rubik's cube in under 60 seconds (well, on a good day!)
 
 
 ## 🌐 Socials:
